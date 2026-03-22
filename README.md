@@ -105,8 +105,4 @@ Built using Tableau to visualize:
 
 This analysis highlights key opportunities for business growth by focusing on high-performing products and regions.
 
----
 
-## 📷 Preview
-
-(Add your dashboard screenshot here)
